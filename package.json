@@ -33,7 +33,7 @@
     "expo-font": "~10.0.4",
     "expo-location": "~14.0.1",
     "expo-notifications": "~0.14.0",
-    "expo-splash-screen": "~0.14.1",
+    "expo-splash-screen": "~0.29.1",
     "expo-status-bar": "~1.2.0",
     "expo-updates": "~0.11.6",
     "galio-framework": "^0.7.1",
