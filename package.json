@@ -35,7 +35,7 @@
     "expo-notifications": "~0.14.0",
     "expo-splash-screen": "~0.14.1",
     "expo-status-bar": "~1.2.0",
-    "expo-updates": "~0.11.6",
+    "expo-updates": "~0.26.3",
     "galio-framework": "^0.7.1",
     "md5": "^2.3.0",
     "moment": "^2.29.1",
